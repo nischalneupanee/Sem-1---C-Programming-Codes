@@ -10,5 +10,5 @@ If you have any feedback, please reach out to us at https://nischalneupane.name.
 
 ## Authors
 
-- @nischalneupane(https://github.com/nischalneupanee)
+- @nischalneupane(https://github.com/codernischal)
 
